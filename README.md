@@ -47,8 +47,10 @@ The project assumes a constant target size which allows us to estimate the appro
 
 This project was brought to life thanks to the combined efforts of:
 
-* [Bartosz Słowik](https://github.com/Bartosz-Slowik) - Took charge of the 3D printing processes and the physical assembly of the robot.
+* [Bartosz Słowik](https://github.com/Bartosz-Slowik) - Took charge of the 3D printing processes and the physical design of the robot.
 * [Adrian Szlag](https://github.com/AdrianSzlag) - Led the development and programming efforts.
+
+Project was made using slightly changed 3d-printing design from: https://www.thingiverse.com/thing:652851
 
 We both thank the wider Open Source Community and everyone else who has indirectly contributed to this project. 
 Your contributions to the libraries and tools we've used have made this project possible and have enriched its feature set significantly.
